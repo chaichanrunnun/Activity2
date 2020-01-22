@@ -1,0 +1,2 @@
+# Activity2
+กิจกรรมที่2 BASIC GIT COMMANDS ON LOCAL REPOSITORY
